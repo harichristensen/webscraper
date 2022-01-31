@@ -1,0 +1,3 @@
+Canadian COVID-19 case data.
+['January 27, 2022', '(Last data update January 28, 2022, 9 am EST)']
+{'British Columbia': ['2,033', '13', '10,940'], 'Alberta': ['3,218', '13', '9,000'], 'Saskatchewan': ['1,300', '2', '3,586'], 'Manitoba': ['576', '14', '2,183'], 'Ontario': ['5,852', '70', '33,687'], 'Quebec': ['3,956', '56', '31,244'], 'Newfoundland and Labrador': ['378', '4', '1,896'], 'New Brunswick': ['388', '3', '2,214'], 'Nova Scotia': ['366', '6', '3,694'], 'Prince Edward Island': ['247', '0', '59'], 'Yukon': ['32', '0', 'N/A'], 'Northwest Territories': ['151', '0', '34'], 'Nunavut': ['N/A', 'N/A', '211'], 'Canada': ['18,497', '181', '98,748']}
