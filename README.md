@@ -29,3 +29,5 @@ $ sudo apt install chromium-chromedriver
 
 Run WebScraper.py  
 $ python WebScraper.py
+
+The results of your webscraper should end up in your data.txt file
